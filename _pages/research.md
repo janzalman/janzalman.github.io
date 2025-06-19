@@ -12,5 +12,5 @@ permalink: /research/
 - **The Effect of Financial Transparency on Aid Diversion**  
   *Solo-authored (2024), under review in [Fiscal Studies](https://onlinelibrary.wiley.com/journal/14755890)*  
 
-- **Czech Policy Work: Chapters on Capital Income, Inheritance, and Wealth Tax** 
+- **Czech Policy Work: Chapters on Capital Income, Inheritance, and Wealth Tax**   
   *In collaboration with [PAQ Research](https://www.paqresearch.cz/) (2025) - Forthcoming*
