@@ -26,10 +26,11 @@ author:
   name             : "Jan Žalman"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Prague"
-  employer         : "Charles University"
-  uri              : # URL
   email            : "jan.zalman@fsv.cuni.cz" 
+  employer         : "Charles University"
+  location         : "Prague, Czechia"
+  uri              : # URL
+  
 
   # Academic websites
   academia         : # URL
