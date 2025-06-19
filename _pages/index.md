@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [CORPTAX group](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center).
+I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [CORPTAX group](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center). I am also involved in the [DemoTrans project](https://feb.kuleuven.be/drc/LEER/demotrans/demotrans), which explores ways to strengthen democratic governance through more accountable, transparent, and effective institutions.
 
 My research focuses on wealth taxation and illicit financial flows. Through my work, I aim to improve the design of tax systems and contribute to evidence-based solutions that address global tax abuse and inequality. I have led seminars on measuring illicit financial flows and profit shifting for government officials in Nigeria. 
 
