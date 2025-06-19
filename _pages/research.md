@@ -7,7 +7,7 @@ permalink: /research/
 ## Work in Progress
 
 - **Taxing Extreme Wealth of the Super-Rich**  
-  *with Miroslav Palanský & Alison Schultz – In Progress* 
+  *with Miroslav Palanský & Alison Schultz (2025) – In Progress* 
 
 - **The Effect of Financial Transparency on Aid Diversion**  
-  *Under Review in [Fiscal Studies](https://onlinelibrary.wiley.com/journal/14755890)*  
+  *Solo-authored (2024), under review in [Fiscal Studies](https://onlinelibrary.wiley.com/journal/14755890)*  
