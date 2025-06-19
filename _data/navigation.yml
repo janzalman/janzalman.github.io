@@ -15,7 +15,7 @@ main:
     url: teaching    
     
   - title: "CV"
-    url: cv
+    url: /assets/JanZalman_CV.pdf
     
   - title: "Guide"
     url: markdown
