@@ -13,4 +13,4 @@ I engage in Czech policy analysis, collaborating with [PAQ Research](https://www
 
 In addition to my research, I serve as a teaching assistant and teach seminars for the undergraduate courses [Public Finance](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JEB025), [Econometrics I](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JEB109), and [European Economic Integration](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JEB026), as well as the graduate course [Public Economics](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JEM203).
 
-I also have a background in humanitarian finance, working as a Finance Officer for a mission in Myanmar, where I focused on budget oversight, financial coordination, and donor accountability within an international NGO.
+I also have a background in humanitarian finance, working as a Finance Officer for a mission in Myanmar, where I focused on budget oversight, financial coordination, and donor accountability within an international NGO [People in Need](https://www.peopleinneed.net/).
