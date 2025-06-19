@@ -16,6 +16,7 @@ main:
     
   - title: "CV"
     url: /assets/JanZalman_CV.pdf
+    download: true
     
   - title: "Guide"
     url: markdown
