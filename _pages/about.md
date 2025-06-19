@@ -1,10 +1,10 @@
 ---
-permalink: 
 title: ""
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - about
-  - about.html
+redirect_from:
+  - /about
+  - /about.html
 ---
 
 I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [CORPTAX group](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center).
