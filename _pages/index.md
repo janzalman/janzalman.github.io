@@ -7,7 +7,7 @@ author_profile: true
 
 I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [CORPTAX group](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center).
 
-My research focuses on wealth taxation and illicit financial flows. I have led seminars on measuring illicit financial flows and profit shifting for government officials in Nigeria. Through my work, I aim to improve the design of tax systems and contribute to evidence-based solutions that address global tax abuse and inequality.
+My research focuses on wealth taxation and illicit financial flows. Through my work, I aim to improve the design of tax systems and contribute to evidence-based solutions that address global tax abuse and inequality. I have led seminars on measuring illicit financial flows and profit shifting for government officials in Nigeria. 
 
 I engage in Czech policy analysis, collaborating with [PAQ Research](https://www.paqresearch.cz/) and the [Centre for Public Finance](https://centreforpublicfinance.eu/) on studies focused on reforming capital income tax, inheritance tax, and wealth taxation.
 
