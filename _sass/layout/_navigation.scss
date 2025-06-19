@@ -442,3 +442,20 @@
     }
   }
 }
+
+/* === Center nav links horizontally === */
+.greedy-nav {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 1.5rem; /* space between nav items */
+}
