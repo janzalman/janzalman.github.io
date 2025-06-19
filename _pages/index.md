@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Jan Žalman"
 permalink: /
 layout: single
 author_profile: true
