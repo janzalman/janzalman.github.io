@@ -1,8 +1,13 @@
 ---
+layout: archive
 title: "Research"
 permalink: /research/
-layout: archive
-author_profile: true
 ---
 
-Here you can describe your research interests, working papers, or link to publications, etc.
+## Work in Progress
+
+- **Taxing Extreme Wealth of the Super-Rich**  
+  *with Miroslav Palanský & Alison Schultz – In Progress* 
+
+- **The Effect of Financial Transparency on Aid Diversion**  
+  *Under Review in [Fiscal Studies](https://onlinelibrary.wiley.com/journal/14755890)*  
