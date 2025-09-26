@@ -18,4 +18,4 @@ permalink: /research/
 
 ## NGO & Policy Work
 - **Chytřejší daně (2025)**  
-  *In collaboration with [PAQ Research](https://www.paqresearch.cz/) ([link](https://chytrejsidane.cz/))
+  In collaboration with [PAQ Research](https://www.paqresearch.cz/) ([link](https://chytrejsidane.cz/))
