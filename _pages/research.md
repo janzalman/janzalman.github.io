@@ -7,7 +7,6 @@ permalink: /research/
 ## Work in Progress
 - **Discontinuity in Property Tax: Evidence from Property Tax Reform in Czechia (2025)**  
   *with [Oliver Škultéty](https://ies.fsv.cuni.cz/en/contacts/institute-members/89209997) – Forthcoming*
-  Presented at: DemoTrans Conference (03/2025), LAGV (07/2025), IIPF (08/2025)
 
 - **Taxing Extreme Wealth of the Super-Rich (2025)**  
   *with [Miroslav Palanský](https://miroslavpalansky.cz/) & Alison Schultz – Forthcoming*
