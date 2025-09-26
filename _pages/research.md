@@ -17,5 +17,5 @@ permalink: /research/
   Presented at: IIPF (2024), Czech Economic Society Conference (2024), EPCS (2025)
 
 ## NGO & Policy Work
-- **Chytřejší daně (2025)** (Complex proposal of tax reform recommedations for Czechia)  
+- **Chytřejší daně (2025)** 
   *In collaboration with [PAQ Research](https://www.paqresearch.cz/) ([link](https://chytrejsidane.cz/))
