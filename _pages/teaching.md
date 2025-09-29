@@ -13,7 +13,7 @@ I have been a teaching assistant for the following classes at the Institute of E
   *(JEM203)* — 2025
 
 - **Econometrics I** (undergraduate)
-  *(JEB109)* — 2025
+  *(JEB109)* — 2025 (top-rated course of SS25)
 
 - **European Economic Integration** (undergraduate)
   *(JEB026)* — 2024
