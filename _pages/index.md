@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [Centre for Public Finance](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center). Currently, I am visiting [STAX](https://stax.stanford.edu/) at the beautiful Stanford University (hosted by Juan Carlos Suárez Serrato, September-December 2025).
+I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en), a PhD Researcher with the [Centre for Public Finance](https://centreforpublicfinance.eu/), and a Research Fellow at [Skatteforsk](https://www.nmbu.no/en/research/skatteforsk-tax-center).
 
 My [research](https://janzalman.github.io/research/) focuses on illicit financial flows, wealth taxes, and property taxes. Through my work, I aim to improve the design of tax systems and contribute to evidence-based solutions that address global tax abuse and inequality. 
 
