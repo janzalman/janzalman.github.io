@@ -12,7 +12,7 @@ permalink: /research/
   *with [Miroslav Palanský](https://miroslavpalansky.cz/) & Alison Schultz – in progress*  
 
 - **The Effect of Financial Transparency on Aid Diversion**  
-  *Solo-authored, under review in [Review of Decelopment Economics](https://onlinelibrary.wiley.com/journal/14679361)* ([WP link](https://ideas.repec.org/p/fau/wpaper/wp2024_29.html))  
+  *Solo-authored, under review in [Review of Development Economics](https://onlinelibrary.wiley.com/journal/14679361)* ([WP link](https://ideas.repec.org/p/fau/wpaper/wp2024_29.html))  
 
 ## NGO & Policy Work
 - **Chytřejší daně (2025)**  
