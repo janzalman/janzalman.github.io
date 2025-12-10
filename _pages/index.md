@@ -15,6 +15,6 @@ I teach the undergraduate courses [Public Finance](https://is.cuni.cz/studium/en
 
 I also have a background in humanitarian finance, working as a Finance Officer for a mission in Myanmar, where I focused on budget oversight, financial coordination, and donor accountability within an international NGO [People in Need](https://www.peopleinneed.net/).
 
-See my full CV [here](assets/JanZalman_CV.pdf).
+See my full CV <a href="assets/JanZalman_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 
