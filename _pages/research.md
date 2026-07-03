@@ -9,6 +9,7 @@ permalink: /research/
   *with [Janský, P.](https://petrjansky.cz/), [Palanský, M.](https://miroslavpalansky.cz/), Skuhrovec, J.*
   **FinanzArchiv/European Journal of Public Finance, forthcoming.**
 
+
 ## Work in Progress
 - **Effective Tax Rates of Czech Billionaires**
   *with [Miroslav Palanský](https://miroslavpalansky.cz/)*
