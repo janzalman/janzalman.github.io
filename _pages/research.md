@@ -11,7 +11,7 @@ permalink: /research/
 
 ## Work in Progress
 - **Effective Tax Rates of Czech Billionaires**
-  *with [Miroslav Palanský](https://miroslavpalansky.cz/)
+  *with [Miroslav Palanský](https://miroslavpalansky.cz/)*
   
 - **Property Tax and Housing Prices: Evidence from Czechia**  
   *with [Oliver Škultéty](https://ies.fsv.cuni.cz/en/contacts/institute-members/89209997) – in progress*
