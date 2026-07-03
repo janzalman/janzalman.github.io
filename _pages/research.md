@@ -7,8 +7,7 @@ permalink: /research/
 ## Articles in peer-reviewed journals
 - **Public Procurement and Tax Haven Exposure in Europe** (2026)
   *with [Janský, P.](https://petrjansky.cz/), [Palanský, M.](https://miroslavpalansky.cz/), Skuhrovec, J.*
-  **FinanzArchiv/European Journal of Public Finance, forthcoming.**
-
+  **FinanzArchiv/European Journal of Public Finance, forthcoming**
 
 ## Work in Progress
 - **Effective Tax Rates of Czech Billionaires**
