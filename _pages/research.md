@@ -17,6 +17,9 @@ permalink: /research/
   *Solo-authored ([link](https://ideas.repec.org/p/fau/wpaper/wp2024_29.html))*
 
 ## Work in Progress
+- **Channels of Profit Shifting: Evidence from Related Party Transactions**
+  *with [Miroslav Palanský](https://miroslavpalansky.cz/)*  
+
 - **Effective Tax Rates of Czech Billionaires**  
   *with [Miroslav Palanský](https://miroslavpalansky.cz/)*
 
