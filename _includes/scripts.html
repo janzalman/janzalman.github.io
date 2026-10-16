@@ -1,3 +1,20 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+<script>
+  // Open external links and downloadable files (PDFs etc.) in a new tab
+  document.addEventListener("DOMContentLoaded", function () {
+    var fileExt = /\.(pdf|docx?|pptx?|xlsx?|zip|csv)$/i;
+    document.querySelectorAll("a[href]").forEach(function (link) {
+      var url;
+      try { url = new URL(link.getAttribute("href"), window.location.href); } catch (e) { return; }
+      if (!/^https?:$/.test(url.protocol)) return; // skip mailto:, tel:, etc.
+      var external = url.hostname !== window.location.hostname;
+      if (external || fileExt.test(url.pathname)) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
