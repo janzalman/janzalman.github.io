@@ -24,7 +24,7 @@ permalink: /research/
   *with [Miroslav Palanský](https://miroslavpalansky.cz/)*
 
 - **Taxing Extreme Wealth of the Super-Rich**  
-  *with [Miroslav Palanský](https://miroslavpalansky.cz/) & [Alison Schultz](https://sites.google.com/view/alisonschultz/home?authuser=0) – in progress*  
+  *with [Miroslav Palanský](https://miroslavpalansky.cz/) & [Alison Schultz](https://sites.google.com/view/alisonschultz/home?authuser=0)*  
 
 ## NGO & Policy Work
 - **Chytřejší daně (2025)**  
